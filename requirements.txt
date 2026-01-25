@@ -1,0 +1,10 @@
+torch
+transformers
+sentence-transformers
+opencv-python
+pillow
+lancedb
+pyarrow
+gradio
+tqdm
+numpy
